@@ -10,4 +10,14 @@ berbagai perintah yang umum digunakan di git
    Perintah : git log
    Opsi : --oneline : menampilkan rekapnya saja
 
-4. Melihat perbandingan 
+4. Melihat perbandingan antar 2 versi
+   Perintah : git diff
+   Opsi : get diff  --staged : membandingkan posisi commit terakhir dengan isi stagging
+          get diff : membandingkan posisi working dengan staging
+          get diff HEAD : membandingkan working folder dengan commit terakhir ( branch)
+
+5. Mengembalikan file yang terhapus didalam folder
+   Perintah : git chechout -- namafile
+
+6. Melihat daftar nama branch
+   Perintah : git branch -a
