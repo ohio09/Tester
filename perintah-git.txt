@@ -3,4 +3,11 @@ berbagai perintah yang umum digunakan di git
 1. membuat repository baru (masuk kedalam folder yang diinginkan)
    perintah : git init
 
-2. 
+2. Melihat status working folder
+   perintah : git status
+
+3. Melihat history perubahan
+   Perintah : git log
+   Opsi : --oneline : menampilkan rekapnya saja
+
+4. Melihat perbandingan 
