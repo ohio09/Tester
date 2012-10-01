@@ -1,0 +1,6 @@
+berbagai perintah yang umum digunakan di git 
+
+1. membuat repository baru (masuk kedalam folder yang diinginkan)
+   perintah : git init
+
+2. 
