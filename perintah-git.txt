@@ -12,6 +12,7 @@ berbagai perintah yang umum digunakan di git
 3. Melihat history perubahan
    Perintah : git log
    Opsi : --oneline : menampilkan rekapnya saja
+	  --graph --all --decorate
 
 4. Melihat perbandingan antar 2 versi
    Perintah : git diff
