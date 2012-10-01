@@ -42,7 +42,7 @@ berbagai perintah yang umum digunakan di git
    Perintah : git branch namabranch
 
 11.Pindah commit/ke branch baru
-   Perintah : git checkout namabranch/id commit1
+   Perintah : git checkout namabranch/id commit
 
 
 
