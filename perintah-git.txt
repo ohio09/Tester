@@ -12,6 +12,7 @@ berbagai perintah yang umum digunakan di git
 3. Melihat history perubahan
    Perintah : git log
    Opsi : --oneline : menampilkan rekapnya saja
+	  --graph --all --decorate
 
 4. Melihat perbandingan antar 2 versi
    Perintah : git diff
@@ -38,7 +39,14 @@ berbagai perintah yang umum digunakan di git
 9. Mengembalikan perubahan yang sudah dilakukan
    Perintah : git revert
 
+10.Membuat branch baru
+   Perintah : git branch namabranch
 
+11.Pindah commit/ke branch baru
+   Perintah : git checkout namabranch/id commit
+
+12.memberi nama pada commit
+   perintah : git tag nama/versi commit-id
 
 
 
