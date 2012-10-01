@@ -22,4 +22,6 @@ berbagai perintah yang umum digunakan di git
 6. Melihat daftar nama branch
    Perintah : git branch -a
 
-7. Test
+7. Mereset stage
+   Perintah : git reset HEAD (undo)
+              git reset --hard ( kembali ke branch (semua perubahan yg belum di commit dibatalkan))
