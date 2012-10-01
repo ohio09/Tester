@@ -21,3 +21,5 @@ berbagai perintah yang umum digunakan di git
 
 6. Melihat daftar nama branch
    Perintah : git branch -a
+
+7.
