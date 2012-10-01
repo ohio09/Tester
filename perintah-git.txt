@@ -38,6 +38,11 @@ berbagai perintah yang umum digunakan di git
 9. Mengembalikan perubahan yang sudah dilakukan
    Perintah : git revert
 
+10.Membuat branch baru
+   Perintah : git branch namabranch
+
+11.Pindah commit/ke branch baru
+   Perintah : git checkout namabranch/id commit
 
 
 
