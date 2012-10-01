@@ -2,6 +2,9 @@ berbagai perintah yang umum digunakan di git
 
 1. membuat repository baru (masuk kedalam folder yang diinginkan)
    perintah : git init
+   Variasi :
+	git init [nama-folder]
+	( jika diberikan argumen nama folder, maka git akan membuatkan folder baru sesuai dengan nama folder yang diketik)
 
 2. Melihat status working folder
    perintah : git status
@@ -22,4 +25,22 @@ berbagai perintah yang umum digunakan di git
 6. Melihat daftar nama branch
    Perintah : git branch -a
 
-7. Test
+7. Mereset stage
+   Perintah : git reset HEAD (undo)
+              git reset --hard ( kembali ke branch (semua perubahan yg belum di commit dibatalkan))
+
+8. memasukkan perubahan ke stage area
+   perintah : git add
+   variasi :
+   	Git add -p : menambahkan per potongan baris (hunk)
+	git add -i : menambahkan dengan menu interaktif
+
+9. Mengembalikan perubahan yang sudah dilakukan
+   Perintah : git revert
+
+
+
+
+
+
+
